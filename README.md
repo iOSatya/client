@@ -20,7 +20,7 @@
 - Axios
 - Tailwind CSS
 
-# Cara Menjalankan Proyek (local)
+# Cara Menjalankan Proyek
 
 1. Kloning Repositori `git clone github.com/iOSatya/client` lalu `cd client`
 2. Instal Dependensi `npm install`
