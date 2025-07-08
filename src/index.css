@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+:root {
+  --darker: oklch(20.5% 0 0);
+  --dark: oklch(26.9% 0 0);
+  --secondary: oklch(55.6% 0 0);
+  --light: oklch(92.2% 0 0);
+  --lighter: oklch(97% 0 0);
+}
+
+.button {
+  display: block;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+.form-control {
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--secondary);
+  border-radius: 0.5rem;
+  outline: none;
+}
+
+th {
+  padding: 0.5rem;
+}
+
+td {
+  padding: 0.5rem;
+  text-align: center;
+}

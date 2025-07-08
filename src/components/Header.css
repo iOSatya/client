@@ -1,0 +1,14 @@
+.isActive {
+  border-bottom: 2px solid var(--light);
+}
+
+.nav-button {
+  display: block;
+  padding: 1rem 2rem;
+  cursor: pointer;
+}
+
+.nav-button:hover {
+  background-color: rgb(255, 255, 255, 5%);
+  filter: brightness(2);
+}
