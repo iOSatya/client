@@ -22,7 +22,7 @@
 
 # Cara Menjalankan Proyek (local)
 
-1. Kloning Repositori `git clone github.com/iOSatya/client`
+1. Kloning Repositori `git clone github.com/iOSatya/client` lalu `cd client`
 2. Instal Dependensi `npm install`
 3. Jalankan Aplikasi `npm run dev`
 4. Aplikasi akan berjalan di `http://localhost:5173`
